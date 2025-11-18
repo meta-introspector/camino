@@ -1,4 +1,4 @@
-[workspace]
+#[workspace]
 # camino-examples pulls in crates that aren't supported by old versions of Rust, so make it its own
 # workspace.
 members = ["."]
